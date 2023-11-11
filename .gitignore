@@ -48,3 +48,4 @@ env/
 .DS_Store
 Thumbs.db
 /Assignment 1/.idea/
+/Assignment 1/cache/
