@@ -1,0 +1,50 @@
+
+
+/Assignment 3/Data/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Model files and data
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# Other generated files
+*.csv
+*.json
+*.xml
+*.html
+*.png
+*.jpg
+*.gif
+*.pdf
+*.docx
+
+# Ignore the development environment settings
+.env
+
+# Ignore any files or directories specific to your IDE or text editor
+.vscode/
+.idea/
+*.sublime-*
+*.suo
+*.ntvs*
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+/Assignment 1/.idea/
